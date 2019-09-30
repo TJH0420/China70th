@@ -172,18 +172,6 @@
     },
 ``` 
 ```
-    data() {
-      return {
-        blessingObj: {
-          first: [],
-          second: [],
-          third: [],
-          fourth: []
-        }
-      };
-    },
-``` 
-```
     //假设后端返回的数据如下
     const blessingObj = {
         first: ["我","爱","你","，","中","华","人","民","共","和","国"],
